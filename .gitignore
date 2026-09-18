@@ -38,4 +38,4 @@ build/
 ### Mac OS ###
 .DS_Store
 logs/
-src/main/resources/database.properties
+src/main/resources/database.propertieslogs/
